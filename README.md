@@ -1,6 +1,5 @@
-# Generative-AI-Using-HuggingFace
+# Generative-AI-Using-Langchain with Hugging Face Models
 
-# Langchain with Hugging Face Models
 
 This project demonstrates integrating Hugging Face models with Langchain for various NLP tasks.
 
